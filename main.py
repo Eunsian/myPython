@@ -1,0 +1,1 @@
+print("{a}".format(a='me'))
